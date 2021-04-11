@@ -7,7 +7,7 @@ Possessing a strong and vigorous work ethic I always focus my attention on a com
 ### How to keep in touch?
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoryan366@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/վանյա-գրիգորյան-ba475b177/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](tg://resolve?domain=grigoryan366)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoryan366)
 
 ## My Prefered Languages/Frameworks
 <p align="center">
