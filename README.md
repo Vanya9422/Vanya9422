@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Vanya9422&color=blue)
 
 ## About me.
-Possessing a strong and vigorous work ethic I always focus my attention on a commitment to excellence and high-quality work product. Furthermore, I always succeed to find effective and efficient solutions to problems that seem unsolvable.
+Possessing a solid and vigorous work ethic, I always focus on a commitment to excellence and high-quality work product. Furthermore, I always succeed in finding effective and efficient solutions to problems that seem unsolvable.
 
 ### How to keep in touch?
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoryan366@gmail.com)
