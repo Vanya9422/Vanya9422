@@ -1,39 +1,79 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://komarev.com/ghpvc/?username=Vanya9422&color=blue)
+<h1 align="center">Hey, I'm Vanya 👋</h1>
 
-## About me.
-Possessing a solid and vigorous work ethic, I always focus on a commitment to excellence and high-quality work product. Furthermore, I always succeed in finding effective and efficient solutions to problems that seem unsolvable.
-
-### How to keep in touch?
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoryan366@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/վանյա-գրիգորյան-ba475b177/)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoryan366)
-
-## My Prefered Languages/Frameworks
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Lumen" src="https://img.shields.io/badge/lumen%20-%23F05340.svg?&style=for-the-badge&logo=lumen&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Senior+PHP+%2F+Laravel+Engineer;8%2B+years+in+production+systems;Building+AI-powered+SaaS+products" alt="Typing SVG" />
 </p>
 
-## Stats
-![Vanya's github stats](https://github-readme-stats.vercel.app/api?username=Vanya9422&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanya9422&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vanya9422&color=FF2D20&style=flat-square" alt="Profile views"/>
+</p>
 
+---
+
+Backend engineer with 8+ years of experience. Currently the sole backend developer at **[MujoAI](https://mujoai.com)** — an AI-powered creative platform. I own the full backend: Laravel REST API, WebSocket server, async RabbitMQ pipelines, Stripe billing, and integrations with 7+ AI providers (OpenAI, Gemini, Midjourney, Flux, Kling, Seedream, XAI Grok). Before that — years of freelance and contract work across SaaS, e-commerce, and real estate.
+
+---
+
+### Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoryan366@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanya-grigoryan)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoryan366)
+
+---
+
+### Tech Stack
+
+**Backend**
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP 8.2-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel 10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue 3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt 3-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+**Databases & Queues**
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL 8-00f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+**DevOps & Cloud**
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="AWS S3" src="https://img.shields.io/badge/AWS S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+**Integrations & Services**
+<p>
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="Pusher" src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanya9422&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanya9422&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanya9422&theme=dark&hide_border=true"/>
+</p>
