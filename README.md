@@ -10,19 +10,40 @@
 
 ---
 
-Backend engineer with 8+ years of experience. Currently the sole backend developer at **[MujoAI](https://mujoai.com)** — an AI-powered creative platform. I own the full backend: Laravel REST API, WebSocket server, async RabbitMQ pipelines, Stripe billing, and integrations with 7+ AI providers (OpenAI, Gemini, Midjourney, Flux, Kling, Seedream, XAI Grok). Before that — years of freelance and contract work across SaaS, e-commerce, and real estate.
+## About me
+
+Backend engineer with 8+ years in production PHP/Laravel. I don't just write CRUD — I design full async pipelines, WebSocket servers, multi-provider AI routing, and billing systems that actually hold up under load.
+
+Currently the sole backend developer at **[MujoAI](https://mujoai.com)**, where I built the entire platform backend from scratch.
 
 ---
 
-### Connect
+## What I'm building
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoryan366@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanya-grigoryan)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoryan366)
+### 🤖 MujoAI — AI Creative Platform *(2024 – present)*
+Full backend ownership of a SaaS platform for AI image and video generation.
+
+- Integrated **7+ AI providers**: OpenAI GPT-Image, Gemini Flash/Pro, Midjourney, Flux Kontext, Kling, Seedream, XAI Grok
+- Built async generation pipeline: **Laravel → RabbitMQ → Python microservice → S3**
+- Real-time status delivery via custom **WebSocket server** (Ratchet) + Pusher fallback
+- **Stripe** subscription billing with usage-based credits, promo codes, referrals (FirstPromoter)
+- Marketing integrations: TikTok & Meta Conversions API, GA4, Mailchimp
+- Admin panel: **Nuxt 3 / Vue 3** Composition API
+- Python microservice: **FastAPI + CLIP** for semantic image search
 
 ---
 
-### Tech Stack
+## Experience highlights
+
+| Period | Role |
+|---|---|
+| 2024 – now | Senior Backend Engineer @ MujoAI |
+| 2022 – 2024 | Freelance / Contract (SaaS, real estate, e-commerce) |
+| 2018 – 2022 | Full-stack Developer (PHP/Laravel + Vue.js) |
+
+---
+
+## Tech Stack
 
 **Backend**
 <p>
@@ -57,7 +78,7 @@ Backend engineer with 8+ years of experience. Currently the sole backend develop
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-**Integrations & Services**
+**Integrations**
 <p>
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -67,7 +88,15 @@ Backend engineer with 8+ years of experience. Currently the sole backend develop
 
 ---
 
-### GitHub Stats
+## Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grigoryan366@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanya-grigoryan)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/grigoryan366)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vanya9422&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
